@@ -2,7 +2,11 @@
 
 Proyecto  Layouts (Mobile y Escritorio) desarollado por Israel Aguilera, como práctica de maquetación con HTML y CSS, enfocado en el uso de mediaquery para construir una Layout Mobile y Escritorio.
 
-## Acceso github pages
+## Acceso link github pages
+https://buffonico.github.io/electric-car-store/
+
+## Acceso link GitHub
+https://github.com/buffonico/electric-car-store
     
     
     
